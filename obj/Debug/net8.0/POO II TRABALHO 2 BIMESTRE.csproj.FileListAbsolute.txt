@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\bin\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.exe
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\bin\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.deps.json
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\bin\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\bin\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.dll
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\bin\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.pdb
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\obj\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\obj\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\obj\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\obj\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\obj\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.dll
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\obj\Debug\net8.0\refint\POO II TRABALHO 2 BIMESTRE.dll
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\obj\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.pdb
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\obj\Debug\net8.0\POO II TRABALHO 2 BIMESTRE.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Faculdade\POO II TRABALHO 2 BIMESTRE\obj\Debug\net8.0\ref\POO II TRABALHO 2 BIMESTRE.dll

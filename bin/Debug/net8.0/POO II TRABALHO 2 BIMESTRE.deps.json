@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "POO II TRABALHO 2 BIMESTRE/1.0.0": {
+        "runtime": {
+          "POO II TRABALHO 2 BIMESTRE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO II TRABALHO 2 BIMESTRE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
